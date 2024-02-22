@@ -26,7 +26,7 @@ Artisto is a platform where users can easily book their ideal artist for events.
 
 #### Usage
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `(https://github.com/joelsiby02/Artisto-Frontend-Responsive.git)>`
 2. Open the `index.html` file in your web browser.
 
 #### Contributing
